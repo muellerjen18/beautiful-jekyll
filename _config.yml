@@ -16,10 +16,9 @@ author: Jennifer Mueller
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
-  Resume: "resume"
   Github: "https://github.com/muellerjen18"
   Getting Started: "getstarted"
+  Table Demo: "table-demo"
 
 
 # --- Logo --- #
