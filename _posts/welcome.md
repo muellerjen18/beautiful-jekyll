@@ -3,6 +3,7 @@ layout: post
 title:  "Turning data into decisions"
 subtitle: "Why I chose Program Evaluation & Data Analytics"
 date:   2026-02-13
+published: true
 ---
 
 I’ve always been interested in how decisions get made — especially the ones that affect people.
