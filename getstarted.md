@@ -10,9 +10,13 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
 
+<div class="gs-section-01" markdown="1">
+ 
 ### 1. Fork this project
 
 Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
+
+</div>
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
@@ -163,3 +167,15 @@ Congratulations on making it this far! You now have all the tools to easily buil
 - You can also check out the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that give you a little more control but are harder to use. Keep in mind that Beautiful Jekyll was primarily designed to be used as a GitHub theme, so you will not get any support if you choose one of the Ruby installation methods. 
 
 - Remember that Beautiful Jekyll is built on top of Jekyll. This means that reading through the [Jekyll documentation](https://jekyllrb.com/) will introduce you to many more features that you might find useful!
+
+<style>
+
+.gs-section-01 h3 {
+  color: red;
+}
+
+.gs-section-01 p {
+  font-size: 22px;
+}
+
+</style>
