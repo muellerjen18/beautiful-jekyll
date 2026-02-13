@@ -4,13 +4,23 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I’m Jennifer 👋  
+I’m a Data Science II student at ASU who likes turning messy data into clean stories — and I also coach varsity volleyball 🏐.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What I’m into right now
+- 📊 Building projects in R (and learning how to publish them like a real adult)
+- 🧠 Making dashboards + visuals that actually make sense
+- ☕ Starbucks life (I take coffee seriously)
+- 🏐 Coaching + strategy + teamwork
 
-What else do you need?
+### My “stats” (unofficial)
+- Favorite dataset: the one that *doesn’t* fight me
+- Debug style: print statements + deep breaths
+- Current vibe: “a little data, a little chaos, a lot of learning”
 
-### My story
+### What you’ll find on this site
+- My labs + class work for Data Science II
+- Mini writeups about what I learned (and what broke)
+- A growing portfolio as I level up my analytics skills
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you’re here for the receipts, check the **Table Demo** + **Getting Started** page in the navbar ✨
